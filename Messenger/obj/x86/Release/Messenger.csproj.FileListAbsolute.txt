@@ -1,0 +1,7 @@
+C:\Users\Abdelhakim\Mes applications\@ My Applications\Software Projects\C# .NET Projects\Messenger\Messenger\bin\Release\Messenger.exe
+C:\Users\Abdelhakim\Mes applications\@ My Applications\Software Projects\C# .NET Projects\Messenger\Messenger\bin\Release\Messenger.pdb
+C:\Users\Abdelhakim\Mes applications\@ My Applications\Software Projects\C# .NET Projects\Messenger\Messenger\obj\x86\Release\Messenger.Form_Main.resources
+C:\Users\Abdelhakim\Mes applications\@ My Applications\Software Projects\C# .NET Projects\Messenger\Messenger\obj\x86\Release\Messenger.Properties.Resources.resources
+C:\Users\Abdelhakim\Mes applications\@ My Applications\Software Projects\C# .NET Projects\Messenger\Messenger\obj\x86\Release\Messenger.csproj.GenerateResource.Cache
+C:\Users\Abdelhakim\Mes applications\@ My Applications\Software Projects\C# .NET Projects\Messenger\Messenger\obj\x86\Release\Messenger.exe
+C:\Users\Abdelhakim\Mes applications\@ My Applications\Software Projects\C# .NET Projects\Messenger\Messenger\obj\x86\Release\Messenger.pdb
